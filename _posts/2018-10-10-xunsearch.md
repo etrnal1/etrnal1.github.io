@@ -31,7 +31,7 @@ wget http://www.xunsearch.com/download/xunsearch-full-latest.tar.bz2
 
 Demo.ini 
 
-https://ws4.sinaimg.cn/large/006tNbRwly1fw3i1nwsf2j309c0dfdh7.jpg
+[](https://ws4.sinaimg.cn/large/006tNbRwly1fw3i1nwsf2j309c0dfdh7.jpg)
 
 #### 配置文件
 
