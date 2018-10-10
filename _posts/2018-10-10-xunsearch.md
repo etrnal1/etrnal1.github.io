@@ -27,8 +27,6 @@ wget http://www.xunsearch.com/download/xunsearch-full-latest.tar.bz2
 
   用 c 语言封装的接口，扩展来调用
 
-
-
 Demo.ini 
 
 ![](https://ws4.sinaimg.cn/large/006tNbRwly1fw3i1nwsf2j309c0dfdh7.jpg)
